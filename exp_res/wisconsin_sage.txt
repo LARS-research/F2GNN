@@ -1,0 +1,1 @@
+seed=2586,genotype=sage||sage||sage||sage||identity||identity||zero||zero||zero||identity||zero||zero||zero||identity||zero||identity||identity||identity||identity||mean||concat||concat||mean||max,saved_dir=logs/search-wisconsin-20210802-120301,val_acc=0.85,test_acc=0.8235294117647058
