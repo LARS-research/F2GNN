@@ -21,7 +21,7 @@ Extensive experiments on eight real-world datasets demonstrate that the proposed
 
 # Instructions to run the experiment
 **Step 1.** Run the search process, given different random seeds.
-(The wisconsin dataset operation is used as an example)
+(The wisconsin dataset is used as an example)
 
 
 	(F2SAGE) python train_search.py --data wisconsin   --gpu 0  --agg sage --temp 0.001 --arch_learning_rate 0.01 --epochs 400  --learning_rate 0.02  
